@@ -14,3 +14,13 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.custom-btn {
+  background-color: #157347;
+  border-color: #146c43;
+}
+
+.custom-btn:hover {
+  background-color: darkgreen;
+}
+
